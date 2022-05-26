@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackEnd 1.Task",
+    "\\BackEnd 1.Task\\Areas\\ProniaAdmin",
+    "\\BackEnd 1.Task\\Areas\\ProniaAdmin\\Controllers",
+    "\\BackEnd 1.Task\\Areas\\ProniaAdmin\\Views",
+    "\\BackEnd 1.Task\\DAL",
+    "\\BackEnd 1.Task\\ViewModels",
+    "\\BackEnd 1.Task\\Views",
+    "\\BackEnd 1.Task\\Views\\Home"
+  ],
+  "SelectedNode": "\\BackEnd 1.Task\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
